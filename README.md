@@ -1,7 +1,7 @@
 
-# Awesome Learn: <Topic>
+# Awesome Learn: {Topic}
 
-A curated and structured learning path for <Topic>.
+A curated and structured learning path for {Topic}.
 
 This repository is part of the Awesome Learn ecosystem. It is designed to help learners move from fundamentals to practical application through a clear, progressive path.
 
@@ -28,13 +28,13 @@ Focus on clarity, progression, and usefulness.
 
 ### 1. Introduction
 
-Provide a clear explanation of what <Topic> is and why it matters.
+Provide a clear explanation of what {Topic} is and why it matters.
 
 Keep this section concise but informative.
 
 ### 2. Key Areas to Understand (Optional)
 
-Outline the major components or subtopics within <Topic>.
+Outline the major components or subtopics within {Topic}.
 
 Only include this section if it adds clarity.
 
